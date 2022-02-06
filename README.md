@@ -1,5 +1,9 @@
 # node-mysql-typescript-example
 
+## About
+
+This is a sample project to demonstrate NodeJS, Express, MySql with Typescript implementation. This project uses JOI for request schema validation. Prettifier is also built in to the build command directly to mantain your code neatly.
+
 ## Installation
 
 ### Database Setup
